@@ -1,0 +1,1 @@
+can use as response to client as a html or template
