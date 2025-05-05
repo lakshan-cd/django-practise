@@ -8,8 +8,6 @@ from django.http import HttpResponse
 #action
 
 def say_hello(request) :
-    x = 1
-    y = 2
     return HttpResponse("Hello World!")
 
 def return_template(request):
